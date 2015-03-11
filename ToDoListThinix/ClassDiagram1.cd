@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ToDoListThinix.App" Collapsed="true">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListThinix.MainWindow" Collapsed="true">
+    <Position X="3.75" Y="1" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListThinix.Model.ToDoModel" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ToDoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListThinix.Properties.Resources" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListThinix.Properties.Settings" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListThinix.View.ToDoView" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgMAABAAAAAAAAAEAAAMgAAAAAAAAAAAAgAAAEAA=</HashCode>
+      <FileName>View\ToDoView.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListThinix.ViewModel.ToDoViewModel" Collapsed="true">
+    <Position X="2" Y="3" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAEQQABAAIAAUACAQABAAQIAACEABAAAQEAgAE=</HashCode>
+      <FileName>ViewModel\ToDoViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

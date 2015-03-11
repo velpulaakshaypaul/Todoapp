@@ -1,0 +1,13 @@
+﻿<Window x:Class="ToDoListThinix.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:view="clr-namespace:ToDoListThinix.View"
+        Title="ToDos" Height="350" MaxWidth="550">
+    <Grid >
+        <ScrollViewer>
+        <GroupBox Header="Menu">
+        <view:ToDoView/>
+        </GroupBox>
+        </ScrollViewer>
+    </Grid>
+</Window>
